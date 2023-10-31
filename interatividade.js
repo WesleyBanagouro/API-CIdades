@@ -1,1 +1,12 @@
-const requestURL = "https://gist.githubusercontent.com/henriquejensen/1032c47a44d2cddaa2ef47fc531025db/raw/c58fdc848baf2a1fb53e617a0ad4e9754ec68e35/json-estados-brasileiros"
+const requestURL = "https://raw.githubusercontent.com/WesleyBanagouro/API-CIdades/main/cidades.json";
+const request = new XMLHttpRequest();
+
+request.open("GET", requestURL);
+
+request.responseType = "json";
+request.send();
+
+request.onload = function () {
+    const estados = request.response;
+    console.log(estados);
+  };
