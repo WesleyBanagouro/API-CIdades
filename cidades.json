@@ -1,0 +1,32 @@
+    {
+    "UF": [
+        {"nome": "Acre", "sigla": "AC", "capital": "Rio Branco", "ddd": [68]},
+        {"nome": "Alagoas", "sigla": "AL", "capital": "Maceió", "ddd": [82]},
+        {"nome": "Amapá", "sigla": "AP", "capital": "Macapá", "ddd": [96]},
+        {"nome": "Amazonas", "sigla": "AM", "capital": "Manaus","ddd": [92, 97]},
+        {"nome": "Bahia", "sigla": "BA", "capital": "Salvador", "ddd": [71, 73, 74, 75, 77]},
+        {"nome": "Ceará", "sigla": "CE", "capital": "Fortaleza", "ddd": [85, 88]},
+        {"nome": "Distrito Federal","sigla": "DF", "capital": "Brasília", "ddd": [61]},
+        {"nome": "Espírito Santo","sigla": "ES", "capital": "Vitória", "ddd": [27, 28]},
+        {"nome": "Goiás", "sigla": "GO", "capital": "Goiânia", "ddd": [62, 64]},
+        {"nome": "Maranhão", "sigla": "MA", "capital": "São Luís","ddd": [98, 99]},
+        {"nome": "Mato Grosso","sigla": "MT", "capital": "Cuiabá","ddd": [65, 66]},
+        {"nome": "Mato Grosso do Sul", "sigla": "MS", "capital": "Campo Grande","ddd": [67]},
+        {"nome": "Minas Gerais", "sigla": "MG", "capital": "Belo Horizonte","ddd": [31, 32, 33, 34, 35, 37, 38]},
+        {"nome": "Pará", "sigla": "PA", "capital": "Belém", "ddd": [91, 93, 94]},
+        {"nome": "Paraíba", "sigla": "PB", "capital": "João Pessoa","ddd": [83]},
+        {"nome": "Paraná", "sigla": "PR", "capital": "Curitiba","ddd": [41, 42, 43, 44, 45, 46]},
+        {"nome": "Pernambuco", "sigla": "PE", "capital": "Recife", "ddd": [81, 87]},
+        {"nome": "Piauí", "sigla": "PI", "capital": "Teresina","ddd": [86, 89]},
+        {"nome": "Rio de Janeiro", "sigla": "RJ", "capital": "Rio de Janeiro","ddd": [21, 22, 24]},
+        {"nome": "Rio Grande do Norte", "sigla": "RN", "capital": "Natal", "ddd": [84]},
+        {"nome": "Rio Grande do Sul", "sigla": "RS", "capital": "Porto Alegre","ddd": [51, 53, 54, 55]},
+        {"nome": "Rondônia", "sigla": "RO", "capital": "Porto Velho","ddd": [69]},
+        {"nome": "Roraima", "sigla": "RR", "capital": "Boa Vista","ddd": [95]},
+        {"nome": "Santa Catarina","sigla": "SC", "capital": "Florianópolis","ddd": [47, 48, 49]},
+        {"nome": "São Paulo","sigla": "SP", "capital": "São Paulo","ddd": [11, 12, 13, 14, 15, 16, 17, 18, 19]},
+        {"nome": "Sergipe", "sigla": "SE", "capital": "Aracaju","ddd": [79]},
+        {"nome": "Tocantins", "sigla": "TO", "capital": "Palmas","ddd": [63]}
+
+    ]
+}
