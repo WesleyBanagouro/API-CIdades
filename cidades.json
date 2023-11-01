@@ -27,6 +27,5 @@
         {"nome": "São Paulo","sigla": "SP", "capital": "São Paulo","ddd": [11, 12, 13, 14, 15, 16, 17, 18, 19]},
         {"nome": "Sergipe", "sigla": "SE", "capital": "Aracaju","ddd": [79]},
         {"nome": "Tocantins", "sigla": "TO", "capital": "Palmas","ddd": [63]}
-
     ]
 }
