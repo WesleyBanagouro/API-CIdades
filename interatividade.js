@@ -25,7 +25,7 @@ function cidades() {
     filtro = arrayEstados.filter(estado => estado.nome.includes(inputSearch));
   } else {
     sugestoes.innerHTML = ""; // Limpa a lista de sugestões quando o campo estiver vazio
-    return; // Retorna para interromper a execução da função
+    return; // Retorna para interromper a execução da funçãoo
   }
 
   sugestoes.innerHTML = "";
