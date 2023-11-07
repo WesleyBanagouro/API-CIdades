@@ -9,7 +9,7 @@ request.send(); // Envia a request com o metodo send()
 
 request.onload = function () {
   cidades();
-}; // Executa a função cidades apos concluido a request
+}; // Executa a função cidades após concluido a request
 
 let filtro = []; //Inicializa um array vazio
 
