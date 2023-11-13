@@ -5,7 +5,7 @@ const sugestoes = document.querySelector('.suggestions'); //Pega o elemento com 
 
 request.open("GET", requestURL); // Com a API e o metodo open, abre a URL com o metodo GET
 request.responseType = "json"; // Identifica a resposta do request como arquivo JSON
-request.send(); // Envia a request com o metodo send
+request.send(); // Envia a request com o metodo send()
 
 request.onload = function () {
   cidades();
